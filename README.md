@@ -5,7 +5,7 @@ A packaged repository for our final project called "UrbanAI", created for the Co
 The repository contains all the necessary information, links and scripts necesarry to re-create the project using the selected data.
 
 
-PROJECT PRESENTATION: https://docs.google.com/presentation/d/1ISsYlxu68UKSwflWaMLhoYx38GvOFVCBB_EHiALyZQw/edit?usp=sharing
+PROJECT PRESENTATION: https://docs.google.com/presentation/d/1ISsYlxu68UKSwflWaMLhoYx38GvOFVCBB_EHiALyZQw/edit?usp=sharing 
 
 PROJECT VIDEO: https://youtu.be/2e2w7iYi_Fo
 
