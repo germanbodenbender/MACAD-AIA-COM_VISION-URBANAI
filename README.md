@@ -7,7 +7,7 @@ The repository contains all the necessary information, links and scripts necesar
 
 PROJECT PRESENTATION: https://docs.google.com/presentation/d/1ISsYlxu68UKSwflWaMLhoYx38GvOFVCBB_EHiALyZQw/edit?usp=sharing
 
-PROJECT VIDEO: https://youtu.be/HFAIPAVAPdU
+PROJECT VIDEO: https://youtu.be/2e2w7iYi_Fo
 
 FACULTY: Gabriella Rossi + Illiana Papadopoulou
 
