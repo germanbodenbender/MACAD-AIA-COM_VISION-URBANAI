@@ -7,7 +7,7 @@ The repository contains all the necessary information, links and scripts necesar
 
 PROJECT PRESENTATION: https://docs.google.com/presentation/d/1ISsYlxu68UKSwflWaMLhoYx38GvOFVCBB_EHiALyZQw/edit?usp=sharing
 
-PROJECT VIDEO: https://youtu.be/UhPsNx_lsw8
+PROJECT VIDEO: https://youtu.be/HFAIPAVAPdU
 
 FACULTY: Gabriella Rossi + Illiana Papadopoulou
 
@@ -18,11 +18,13 @@ COLLABORATORS: Joao Silva + German Otto Bodenbender
 
 // HOW TO START
 
-01 + Open the "AIA-GENERATIVE_DESIGN-URBAN_LUX-PIX2PIX.ipynb" using your Google Colab notebook.
+01 + Clone the repository and run the "AIA_COM_VISION_G04_URBAN_AI_PCA_ANALYSIS" on colab to perform a PCA analysis.
 
-02 + Load and mount your temp Gdrive 
+02 + Once the analysis is done, open and run the "AIA_COM_VISION_G04_URBAN_AI_ML_REGRESSION_MULTI_PRECITION_V05" file on colab as well to train the model.
 
-03 + Import the Pix2Pix model from the provided github repo
+03 + Once the model is trained, you can save the .h5 file and add it onto your local repository
 
-04 + Load the blding dataset from this repository and train the model.
+04 + Open VS and select the "app.py" file. Load the saved .h5 fle onto the code.
+
+05 + Open the provided Grasshopper file and load the provided URL from the Visual Studio terminal onto Hops.
 
