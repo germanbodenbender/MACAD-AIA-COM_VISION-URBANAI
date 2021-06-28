@@ -1,4 +1,4 @@
-<img src="./URBANAI.jpg">
+<img src="./URBANAI.png">
 
 # MACAD // AIA + DIGITAL TOOLS FOR COMPUTER VISION & DATA ENCODING: URBANAI
 A packaged repository for our final project called "UrbanAI", created for the Computer vision seminar at the Masters in Advanced Computation for Architecture and Design.
